@@ -63,140 +63,99 @@ Lista com outras listas e mais coisas úteis(ou não)
  
 ### Podcasts:
  
-   * Hipsters Tech
-    http://hipsters.tech
+   * [Hipsters Tech](http://hipsters.tech)
  
 ### Canais do youtube:
    
-   * Danilo Aparecido
-        https://www.youtube.com/user/Didox59
+   * [Danilo Aparecido](https://www.youtube.com/user/Didox59)
  
-   * LevelUpTuts
-        https://www.youtube.com/user/LevelUpTuts
+   * [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
    
-   * Eu Programador
-        https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA
+   * [Eu Programador](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA)
  
-   * Rodrigo Branas
-        https://www.youtube.com/user/rodrigobranas
+   * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
    
-   * Java & Cia
-        https://www.youtube.com/user/java8cia
+   * [Java & Cia](https://www.youtube.com/user/java8cia)
  
-   * Webschool
-        https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg
+   * [Webschool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
  
-   * Boson Treinamentos
-        https://www.youtube.com/user/bosontreinamentos
+   * [Boson Treinamentos](https://www.youtube.com/user/bosontreinamentos)
  
-   * Java Completo
-        https://www.youtube.com/user/javacompleto
+   * [Java Completo](https://www.youtube.com/user/javacompleto)
  
-   * Excript
-        https://www.youtube.com/user/excriptvideo
+   * [Excript](https://www.youtube.com/user/excriptvideo)
  
-   * João Ribeiro
-        https://www.youtube.com/user/JLDRPT
+   * [João Ribeiro](https://www.youtube.com/user/JLDRPT)
  
-   * Cria Jogos
-        https://www.youtube.com/user/criajogo/videos
+   * [Cria Jogos](https://www.youtube.com/user/criajogo/videos)
    
-   * Luiz Renato
-        https://www.youtube.com/user/luizrenato87
+   * [Luiz Renato](https://www.youtube.com/user/luizrenato87)
  
-   * Codigo Facilito
-        https://www.youtube.com/user/codigofacilito
+   * [Codigo Facilito](https://www.youtube.com/user/codigofacilito)
    
-   * G-tech
-        https://www.youtube.com/user/gtechinfor
+   * [G-tech](https://www.youtube.com/user/gtechinfor)
    
-   * De Aluno Para Aluno
-        https://www.youtube.com/user/italogross
+   * [De Aluno Para Aluno](https://www.youtube.com/user/italogross)
  
-   * Linguagem C Programação Descomplicada
-        https://www.youtube.com/user/progdescomplicada
+   * [Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada)
    
-   * Me salva!
-        https://www.youtube.com/user/migandorffy
+   * [Me salva!](https://www.youtube.com/user/migandorffy)
  
-   * Fernando Rych
-        https://www.youtube.com/channel/UC8yjEZ7-hroweXUgjPMwXNQ
+   * [Fernando Rych](https://www.youtube.com/channel/UC8yjEZ7-hroweXUgjPMwXNQ)
  
-   * Ignorância zero
-        https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw
+   * [Ignorância zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw)
  
-   * Python Para zumbis
-        https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA
+   * [Python Para zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA)
    
-   * Ronaldo Framos
-        https://www.youtube.com/user/ronaldoframos
+   * [Ronaldo Framos](https://www.youtube.com/user/ronaldoframos)
  
-   * DD Tutoriais
-        https://www.youtube.com/user/TheDDTUTORIAIS
+   * [DD Tutoriais](https://www.youtube.com/user/TheDDTUTORIAIS)
  
-   * Neri Neitzke
-        https://www.youtube.com/user/nerineitzke/featured
+   * [Neri Neitzke](https://www.youtube.com/user/nerineitzke/featured)
  
-   * Joao Felipe Pego
-        https://www.youtube.com/user/Jua0o0o/featured
+   * [Joao Felipe Pego](https://www.youtube.com/user/Jua0o0o/featured)
  
 ### Linguagens e frameworks:
  
-   * Laravel
-        https://laracasts.com/
+   * [Laravel](https://laracasts.com/)
  
    * Css
-        Css-Tricks
-            https://css-tricks.com
+        [Css-Tricks](https://css-tricks.com)
    
-   * Ionic
-        http://ionicframework.com
+   * [Ionic](http://ionicframework.com)
  
 ### Download Pirata:
  
-   * RatonDownloads
-        http://www.ratondownloads.com/
+   * [RatonDownloads](http://www.ratondownloads.com/)
  
 ### Outras listagens interessantes:
  
-   * Awesome
-        https://github.com/sindresorhus/awesome
+   * [Awesome](https://github.com/sindresorhus/awesome)
  
-   * codeconquest
-        http://www.codeconquest.com/27-websites-where-you-can-learn-to-code-today/
+   * [codeconquest](http://www.codeconquest.com/27-websites-where-you-can-learn-to-code-today/)
  
 ### Plataformas de testes de código rápidas:
  
-   * JSFiddle
-        https://jsfiddle.net/
+   * [JSFiddle](https://jsfiddle.net/)
  
-   * Thimble
-        https://thimble.mozilla.org
+   * [Thimble](https://thimble.mozilla.org)
  
-   * jsBin
-        http://jsbin.com/
+   * [jsBin](http://jsbin.com/)
  
 ### Registro de domínios
-   * Freenom
-        http://www.freenom.com
+   * [Freenom](http://www.freenom.com)
  
-   * Nibo
-        https://www.nibo.com.br/
+   * [Nibo](https://www.nibo.com.br/)
  
-   * OpenCart
-         http://www.opencart.com/
+   * [OpenCart](http://www.opencart.com/)
  
 ### Forums de discussão:
  
-   * viva o linux
-        http://vivaolinux.com.br/
+   * [viva o linux](http://vivaolinux.com.br/)
  
-   * quora
-        https://www.quora.com/
+   * [quora](https://www.quora.com/)
  
-   * Guj
-        http://www.guj.com.br/
+   * [Guj](http://www.guj.com.br/)
  
-   * StackOverflow
-        http://stackoverflow.com/
+   * [StackOverflow](http://stackoverflow.com/)
 
