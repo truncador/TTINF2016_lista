@@ -1,5 +1,6 @@
 #TTINF2016_lista
 Lista com outras listas e mais coisas úteis(ou não)
+[teste](#podcasts)
 
 ### plataformas de cursos e certificações pagos:
  
@@ -116,11 +117,11 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [Joao Felipe Pego](https://www.youtube.com/user/Jua0o0o/featured)
  
 ### Linguagens e frameworks:
- 
-   * [Laravel](https://laracasts.com/)
+   * php
+       * [Laravel](https://laracasts.com/)
  
    * Css
-        [Css-Tricks](https://css-tricks.com)
+       * [Css-Tricks](https://css-tricks.com)
    
    * [Ionic](http://ionicframework.com)
  
