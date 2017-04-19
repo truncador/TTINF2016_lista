@@ -91,6 +91,14 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [Dev Na Estrada](http://devnaestrada.com.br/)
    
    * [Cocoa Heads](http://www.cocoaheads.com.br/)
+   
+   * [Ship It](https://soundcloud.com/rdshipit)
+   
+   * [Castálio](http://castalio.info/)
+   
+   * [DioCast](http://www.diolinux.com.br/search/label/DioCast)
+   
+   * [FooCast](http://foocast.io/)
  
 ### Canais do youtube:
    
