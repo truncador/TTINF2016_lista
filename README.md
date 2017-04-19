@@ -99,6 +99,8 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [DioCast](http://www.diolinux.com.br/search/label/DioCast)
    
    * [FooCast](http://foocast.io/)
+   
+   * [PODebug](http://www.podebug.com/)
  
 ### Canais do youtube:
    
