@@ -65,6 +65,32 @@ Lista com outras listas e mais coisas úteis(ou não)
 ### Podcasts:
  
    * [Hipsters Tech](http://hipsters.tech)
+   
+   * [DatabaseCast](http://databasecast.com.br)
+   
+   * [BlueSoft](http://labs.bluesoft.com.br/category/podcast/)
+   
+   * [Área de Transferência](http://areadetransferencia.com.br/)
+   
+   * [ZenCast](https://soundcloud.com/software-zen)
+   
+   * [Lambda3 Podcast](https://itunes.apple.com/br/podcast/lambda3-podcast/id1115313672)
+   
+   * [FIAP Café](https://itunes.apple.com/br/podcast/fiap-cafe/id466766842)
+   
+   * [Dois na Web](https://itunes.apple.com/br/podcast/cristina-de-luca-dois-na-web/id436938246)
+   
+   * [Loop Matinal](https://itunes.apple.com/br/podcast/loop-matinal/id1053245743)
+   
+   * [Mundo Digital](https://itunes.apple.com/br/podcast/cbn-ethevaldo-siqueira-mundo/id373605889)
+   
+   * [Zone Front End](http://zofe.com.br/)
+   
+   * [Grok](http://www.grokpodcast.com/)
+   
+   * [Dev Na Estrada](http://devnaestrada.com.br/)
+   
+   * [Cocoa Heads](http://www.cocoaheads.com.br/)
  
 ### Canais do youtube:
    
