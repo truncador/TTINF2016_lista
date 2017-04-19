@@ -2,35 +2,38 @@
 Lista com outras listas e mais coisas úteis(ou não)
 [teste](#podcasts)
 
-### plataformas de cursos e certificações pagos:
+---
+
+## plataformas de cursos e certificações pagos:
  
-   * [Devmedia](http://www.devmedia.com.br/)
+   * [Devmedia](http://www.devmedia.com.br/) - Dev.web e desktop
  
-   * [School Of Net](https://www.schoolofnet.com/)
+   * [School Of Net](https://www.schoolofnet.com/) - Dev.web e desktop
  
-   * [Alura](https://www.alura.com.br/)
+   * [Alura](https://www.alura.com.br/) - Dev.web e desktop / Design
  
-   * [Udemy](https://www.udemy.com/)
+   * [Udemy](https://www.udemy.com/) - Dev.web e desktop / Infra /  Línguas / dev social / +++
  
-   * [Iped](https://www.iped.com.br)
+   * [Iped](https://www.iped.com.br) - Dev.web e desktop / Infra /  Línguas / dev social / +++
  
-   * [Tutsplus](https://tutsplus.com/)
+   * [Tutsplus](https://tutsplus.com/) - Dev.web e desktop / design / multimedia / +++
  
-   * [Learncafe](https://www.learncafe.com/)
+   * [Learncafe](https://www.learncafe.com/) - Dev.web e desktop / Infra /  Línguas / dev social / +++
  
-   * [Caelum](https://www.caelum.com.br)
+   * [Caelum](https://www.caelum.com.br) - Dev.web e desktop / Design
  
-   * [TreinaWeb](https://www.treinaweb.com.br/)
+   * [TreinaWeb](https://www.treinaweb.com.br/) - Dev.web e desktop / Design
  
-   * [Coursera](https://www.coursera.org)
+   * [Coursera](https://www.coursera.org) - Dev.web e desktop / Infra /  Línguas / dev social / +++
  
-   * [SoftBlue](http://www.softblue.com.br/)
+   * [SoftBlue](http://www.softblue.com.br/) - Dev.web e desktop
  
-   * [Impacta](http://www.impacta.com.br/)
+   * [Impacta](http://www.impacta.com.br/) - Dev.web e desktop / Infra 
  
-   * [Loiane Groner](http://loiane.com/)
+   * [Loiane Groner](http://loiane.com/) - Dev.web e desktop
  
-### Artigos sobre informática e tecnologia:
+ 
+## Artigos sobre informática e tecnologia:
  
    * [Linha de código](http://www.linhadecodigo.com.br/)
  
@@ -49,7 +52,7 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [Level Up Tutorials](https://leveluptutorials.com/)
  
  
-### Plataformas de cursos grátis:
+## Plataformas de cursos grátis:
  
    * [Microsoft Virtual Academy](https://mva.microsoft.com/)
    
@@ -62,7 +65,7 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [Playcode](https://playcode.com.br)
  
  
-### Podcasts:
+## Podcasts:
  
    * [Hipsters Tech](http://hipsters.tech)
    
@@ -102,7 +105,7 @@ Lista com outras listas e mais coisas úteis(ou não)
    
    * [PODebug](http://www.podebug.com/)
  
-### Canais do youtube:
+## Canais do youtube:
    
    * [Danilo Aparecido](https://www.youtube.com/user/Didox59)
  
@@ -152,7 +155,7 @@ Lista com outras listas e mais coisas úteis(ou não)
  
    * [Joao Felipe Pego](https://www.youtube.com/user/Jua0o0o/featured)
  
-### Linguagens e frameworks:
+## Linguagens e frameworks:
    * php
        * [Laravel](https://laracasts.com/)
  
@@ -161,17 +164,17 @@ Lista com outras listas e mais coisas úteis(ou não)
    
    * [Ionic](http://ionicframework.com)
  
-### Download Pirata:
+## Download Pirata:
  
    * [RatonDownloads](http://www.ratondownloads.com/)
  
-### Outras listagens interessantes:
+## Outras listagens interessantes:
  
    * [Awesome](https://github.com/sindresorhus/awesome)
  
    * [codeconquest](http://www.codeconquest.com/27-websites-where-you-can-learn-to-code-today/)
  
-### Plataformas de testes de código rápidas:
+## Plataformas de testes de código rápidas:
  
    * [JSFiddle](https://jsfiddle.net/)
  
@@ -179,14 +182,14 @@ Lista com outras listas e mais coisas úteis(ou não)
  
    * [jsBin](http://jsbin.com/)
  
-### Registro de domínios
+## Registro de domínios
    * [Freenom](http://www.freenom.com)
  
    * [Nibo](https://www.nibo.com.br/)
  
    * [OpenCart](http://www.opencart.com/)
  
-### Forums de discussão:
+## Forums de discussão:
  
    * [viva o linux](http://vivaolinux.com.br/)
  
