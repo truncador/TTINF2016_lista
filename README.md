@@ -31,9 +31,15 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [Impacta](http://www.impacta.com.br/) - Dev.web e desktop / Infra 
  
    * [Loiane Groner](http://loiane.com/) - Dev.web e desktop
+   
+   * [HebeFlix](https://hebeflix.design/) - 
+   
+   * [Codecasts](https://codecasts.com.br/lesson) - 
+   
+   * [Puflix](https://app.puflix.com/)
  
  
-## Artigos sobre informática e tecnologia:
+## Blogs  e Artigos sobre informática e tecnologia:
  
    * [Linha de código](http://www.linhadecodigo.com.br/)
  
@@ -67,9 +73,9 @@ Lista com outras listas e mais coisas úteis(ou não)
  
 ## Podcasts:
  
-   * [Hipsters Tech](http://hipsters.tech)
+   * [Hipsters Tech](http://hipsters.tech) - Sobre Tecnologias web
    
-   * [DatabaseCast](http://databasecast.com.br)
+   * [DatabaseCast](http://databasecast.com.br) - Sobre banco de dados
    
    * [BlueSoft](http://labs.bluesoft.com.br/category/podcast/)
    
@@ -104,6 +110,7 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [FooCast](http://foocast.io/)
    
    * [PODebug](http://www.podebug.com/)
+   
  
 ## Canais do youtube:
    
@@ -111,7 +118,7 @@ Lista com outras listas e mais coisas úteis(ou não)
  
    * [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
    
-   * [Eu Programador](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA)
+   * [Eu Programador](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA) - Focado em Google Go lang
  
    * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
    
@@ -173,6 +180,14 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [Awesome](https://github.com/sindresorhus/awesome)
  
    * [codeconquest](http://www.codeconquest.com/27-websites-where-you-can-learn-to-code-today/)
+   
+   * [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
+   
+   * [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource)
+   
+   * [Biblioteca](https://github.com/cerebrobr/biblioteca)
+   
+   
  
 ## Plataformas de testes de código rápidas:
  
@@ -198,4 +213,6 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [Guj](http://www.guj.com.br/)
  
    * [StackOverflow](http://stackoverflow.com/)
+   
+   * [StackExchange](https://stackexchange.com)
 
