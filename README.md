@@ -193,7 +193,7 @@ Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar
    
    * [Biblioteca](https://github.com/cerebrobr/biblioteca)
    
-   * [Tudo Sobre Hospedagem de Sites](https://tudosobrehospedagemdesites.com.br/ranking-melhor-hospedagem-de-sites/) - Ranking de plataformas de sites
+   * [Tudo Sobre Hospedagem de Sites](https://tudosobrehospedagemdesites.com.br/ranking-melhor-hospedagem-de-sites/) - Ranking de plataformas de hospedagem de sites
    
    
  
