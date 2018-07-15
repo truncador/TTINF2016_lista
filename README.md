@@ -1,73 +1,80 @@
 # Lista Básica
-Lista com outras listas e mais coisas úteis ~~ou não~~ sobre programação e tecnologia.
+Lista com outras listas e mais coisas úteis ~~ou não~~ sobre programação e tecnologia. 
+
+Boa parte do conteúdo é em português.
 
 Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar a lista de uma forma mais legível.
+
 
 ---
 
 ## plataformas de cursos e certificações:
  
-   * [Devmedia](http://www.devmedia.com.br/) - Dev.web e desktop
+   * [Devmedia](http://www.devmedia.com.br) - Dev.web e desktop
  
-   * [School Of Net](https://www.schoolofnet.com/) - Dev.web e desktop
+   * [School Of Net](https://www.schoolofnet.com) - Dev.web e desktop
  
-   * [Alura](https://www.alura.com.br/) - Dev.web e desktop / Design
+   * [Alura](https://www.alura.com.br) - Dev.web e desktop / Design
  
-   * [Udemy](https://www.udemy.com/) - Dev.web e desktop / Infra /  Línguas / dev social / +++
+   * [Udemy](https://www.udemy.com) - Dev.web e desktop / Infra /  Línguas / dev social / +++
  
    * [Iped](https://www.iped.com.br) - Dev.web e desktop / Infra /  Línguas / dev social / +++
  
-   * [Tutsplus](https://tutsplus.com/) - Dev.web e desktop / design / multimedia / +++
+   * [Tutsplus](https://tutsplus.com) - Dev.web e desktop / design / multimedia / +++
  
-   * [Learncafe](https://www.learncafe.com/) - Dev.web e desktop / Infra /  Línguas / dev social / +++
+   * [Learncafe](https://www.learncafe.com) - Dev.web e desktop / Infra /  Línguas / dev social / +++
  
    * [Caelum](https://www.caelum.com.br) - Dev.web e desktop / Design
  
-   * [TreinaWeb](https://www.treinaweb.com.br/) - Dev.web e desktop / Design
+   * [TreinaWeb](https://www.treinaweb.com.br) - Dev.web e desktop / Design
  
    * [Coursera](https://www.coursera.org) - Dev.web e desktop / Infra /  Línguas / dev social / +++
  
-   * [SoftBlue](http://www.softblue.com.br/) - Dev.web e desktop
+   * [SoftBlue](http://www.softblue.com.br) - Dev.web e desktop
  
-   * [Impacta](http://www.impacta.com.br/) - Dev.web e desktop / Infra 
+   * [Impacta](http://www.impacta.com.br) - Dev.web e desktop / Infra 
  
-   * [Loiane Groner](http://loiane.com/) - Dev.web e desktop
+   * [Loiane Groner](https://loiane.training) - Dev.web e desktop
    
-   * [HebeFlix](https://hebeflix.design/) - 
+   * [HebeFlix](https://hebeflix.design) - 
    
-   * [Codecasts](https://codecasts.com.br/lesson) - 
+   * [~~Codecasts~~](https://codecasts.com.br/lesson) -
    
-   * [Puflix](https://app.puflix.com/)
+   * [Puflix](https://app.puflix.com)
  
  
 ## Blogs  e Artigos sobre informática e tecnologia:
  
-   * [Linha de código](http://www.linhadecodigo.com.br/)
+   * [Linha de código](http://www.linhadecodigo.com.br)
  
-   * [Tableless](https://tableless.com.br/)
+   * [Tableless](https://tableless.com.br)
  
-   * [Websocialdev](http://websocialdev.com/)
+   * [Websocialdev](http://websocialdev.com)
  
-   * [Imasters](http://imasters.com.br/)
+   * [Imasters](http://imasters.com.br)
    
-   * [Vedovelli](http://www.vedovelli.com.br/)
+   * [Vedovelli](http://www.vedovelli.com.br)
  
-   * [Mozilla Development Network](https://developer.mozilla.org/pt-BR/)
+   * [Mozilla Development Network](https://developer.mozilla.org/pt-BR)
  
    * [Intel IT Center](http://www.intel.com.br/content/www/br/pt/it-management/intel-it/it-managers.html)
  
-   * [Level Up Tutorials](https://leveluptutorials.com/)
+   * [Level Up Tutorials](https://leveluptutorials.com)
+   
+   * [CodeCasts](https://blog.codecasts.com.br)
+   
+   * [Loiane Groner](https://loiane.com)
  
  
 ## Plataformas de cursos "grátis":
  
-   * [Microsoft Virtual Academy](https://mva.microsoft.com/)
+   * [Microsoft Virtual Academy](https://mva.microsoft.com)
    
    * [CodeAcademy](https://www.codecademy.com/pt)
  
-   * [Curso em vídeo](http://www.cursoemvideo.com/)
+   * [Curso em vídeo](http://www.cursoemvideo.com)
  
-   * [w3schools](https://www.w3schools.com/)
+   * [w3schools](https://www.w3schools.com)
  
    * [Playcode](https://playcode.com.br)
  
@@ -78,9 +85,9 @@ Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar
    
    * [DatabaseCast](http://databasecast.com.br) - Sobre banco de dados
    
-   * [BlueSoft](http://labs.bluesoft.com.br/category/podcast/)
+   * [BlueSoft](http://labs.bluesoft.com.br/category/podcast)
    
-   * [Área de Transferência](http://areadetransferencia.com.br/)
+   * [Área de Transferência](http://areadetransferencia.com.br)
    
    * [ZenCast](https://soundcloud.com/software-zen)
    
@@ -164,6 +171,7 @@ Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar
    * [Joao Felipe Pego](https://www.youtube.com/user/Jua0o0o/featured)
  
 ## Linguagens e frameworks:
+
    * php
        * [Laravel](https://laracasts.com/)
  
@@ -176,7 +184,7 @@ Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar
  
    * [Awesome](https://github.com/sindresorhus/awesome)
  
-   * [codeconquest](http://www.codeconquest.com/27-websites-where-you-can-learn-to-code-today/)
+   * [codeconquest](http://www.codeconquest.com/27-websites-where-you-can-learn-to-code-today)
    
    * [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
    
@@ -188,28 +196,29 @@ Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar
  
 ## Plataformas de testes de código:
  
-   * [JSFiddle](https://jsfiddle.net/)
+   * [JSFiddle](https://jsfiddle.net)
  
    * [Thimble](https://thimble.mozilla.org)
  
-   * [jsBin](http://jsbin.com/)
+   * [jsBin](http://jsbin.com)
  
 ## Registro de domínios:
+
    * [Freenom](http://www.freenom.com)
  
-   * [Nibo](https://www.nibo.com.br/)
+   * [Nibo](https://www.nibo.com.br)
  
-   * [OpenCart](http://www.opencart.com/)
+   * [OpenCart](http://www.opencart.com)
  
 ## Forums de discussão:
  
-   * [viva o linux](http://vivaolinux.com.br/)
+   * [viva o linux](http://vivaolinux.com.br)
  
-   * [quora](https://www.quora.com/)
+   * [quora](https://www.quora.com)
  
-   * [Guj](http://www.guj.com.br/)
+   * [Guj](http://www.guj.com.br)
  
-   * [StackOverflow](http://stackoverflow.com/)
+   * [StackOverflow](http://stackoverflow.com)
    
    * [StackExchange](https://stackexchange.com)
 
