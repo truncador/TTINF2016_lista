@@ -1,9 +1,9 @@
 # Lista Básica
-Lista com outras listas e mais coisas úteis(ou não)
+Lista com outras listas e mais coisas úteis sobre programação.
 
 ---
 
-## plataformas de cursos e certificações pagos:
+## plataformas de cursos e certificações:
  
    * [Devmedia](http://www.devmedia.com.br/) - Dev.web e desktop
  
@@ -57,7 +57,7 @@ Lista com outras listas e mais coisas úteis(ou não)
    * [Level Up Tutorials](https://leveluptutorials.com/)
  
  
-## Plataformas de cursos grátis:
+## Plataformas de cursos "grátis":
  
    * [Microsoft Virtual Academy](https://mva.microsoft.com/)
    
@@ -184,7 +184,7 @@ Lista com outras listas e mais coisas úteis(ou não)
    
    
  
-## Plataformas de testes de código rápidas:
+## Plataformas de testes de código:
  
    * [JSFiddle](https://jsfiddle.net/)
  
@@ -192,7 +192,7 @@ Lista com outras listas e mais coisas úteis(ou não)
  
    * [jsBin](http://jsbin.com/)
  
-## Registro de domínios
+## Registro de domínios:
    * [Freenom](http://www.freenom.com)
  
    * [Nibo](https://www.nibo.com.br/)
