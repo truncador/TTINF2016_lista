@@ -171,10 +171,6 @@ Lista com outras listas e mais coisas úteis(ou não)
    
    * [Ionic](http://ionicframework.com)
  
-## Download Pirata:
- 
-   * [RatonDownloads](http://www.ratondownloads.com/)
- 
 ## Outras listagens interessantes:
  
    * [Awesome](https://github.com/sindresorhus/awesome)
