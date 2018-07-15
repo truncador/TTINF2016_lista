@@ -82,7 +82,7 @@ Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar
  
 ## Podcasts:
  
-   * [Hipsters Tech](http://hipsters.tech) - Sobre Tecnologias web
+   * [Hipsters Tech](http://hipsters.tech) - Sobre tecnologias web
    
    * [DatabaseCast](http://databasecast.com.br) - Sobre banco de dados
    
@@ -192,6 +192,8 @@ Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar
    * [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource)
    
    * [Biblioteca](https://github.com/cerebrobr/biblioteca)
+   
+   * [Tudo Sobre Hospedagem de Sites](https://tudosobrehospedagemdesites.com.br/ranking-melhor-hospedagem-de-sites/) - Ranking de plataformas de sites
    
    
  
