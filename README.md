@@ -1,5 +1,7 @@
 # Lista Básica
-Lista com outras listas e mais coisas úteis sobre programação.
+Lista com outras listas e mais coisas úteis ~~ou não~~ sobre programação e tecnologia.
+
+Sinta-se livre para editar, adicionar novos links, indicar inativos ou organizar a lista de uma forma mais legível.
 
 ---
 
