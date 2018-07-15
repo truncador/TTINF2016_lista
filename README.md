@@ -1,6 +1,5 @@
-# TTINF2016_lista
+# Lista Básica
 Lista com outras listas e mais coisas úteis(ou não)
-[teste](#podcasts)
 
 ---
 
